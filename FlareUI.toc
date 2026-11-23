@@ -131,6 +131,7 @@ Settings\Pages\Minimap.lua
 Settings\Pages\QuestTracker.lua
 Settings\Pages\RadialMenu.lua
 Settings\Pages\QualityOfLife.lua
+Settings\Pages\Spellmind.lua
 Settings\Pages\BagsLooting.lua
 Settings\Pages\Advanced.lua
 Settings\Pages\Language.lua
